@@ -46,7 +46,7 @@
 			"[-10]% Production when constructing [All] wonders [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
-			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from [Abyss] tiles [in this city]"],
+			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]"],
 		"cost": -1
 	},
 	{
@@ -66,7 +66,7 @@
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [3] population [in this city]"],
+		"uniques": ["[+1] Science per [3] population [in this city]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -87,7 +87,7 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Hospital",
 		"food": 3,
-		"happiness": 1,
+		"happiness": 2,
 		"culture": 2,
 		"requiredBuilding": "Aqueduct",
 		"maintenance": 2,
