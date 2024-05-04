@@ -7,7 +7,7 @@
 		"production": -2,
 		"happiness": -2,
 		"turnsToBuild": 6,
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 		"uniques": ["Gives a defensive bonus of [-20]%",
 			"[+1 Food] <after discovering [Civil Service]>",
 			"[+2 Production] <after discovering [Biology]>",
