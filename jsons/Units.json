@@ -14,7 +14,7 @@
 		"unitType": "Scout",
 		"strength": 4,
 		"movement": 3,
-		"cost": 25,
+		"cost": 30,
 		"uniques": ["All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"May enter foreign tiles without open borders",
