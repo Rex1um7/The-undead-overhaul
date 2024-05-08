@@ -8,7 +8,8 @@
 		"cost": 350,
 		"uniques": ["Founds a new city",
 		        "All tiles cost 1 movement",
-			"Ignores Zone of Control"]
+			"Ignores Zone of Control",
+		        "[-2] sight"]
 	},
 	{
 		"name": "Ghost",
