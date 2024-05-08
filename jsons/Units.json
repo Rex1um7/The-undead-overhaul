@@ -6,7 +6,9 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 350,
-		"uniques": ["Founds a new city"]
+		"uniques": ["Founds a new city",
+		        "All tiles cost 1 movement",
+			"Ignores Zone of Control"]
 	},
 	{
 		"name": "Ghost",
