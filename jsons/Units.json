@@ -9,7 +9,7 @@
 		"uniques": ["Founds a new city",
 		        "All tiles cost 1 movement",
 			"Ignores Zone of Control",
-		        "[-2] sight"]
+		        "[-2] Sight"]
 	},
 	{
 		"name": "Ghost",
