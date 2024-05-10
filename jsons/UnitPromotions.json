@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"uniques": ["[+25]% Strength <when defending>"]
+		"uniques": ["[+20]% Strength <when defending>"]
 	},
 	{
 		"name": "Sickening Plague",
@@ -21,6 +21,6 @@
 	},
 	{
 		"name": "Summon the Lich King",
-		"uniques": ["[Great General] is earned [60]% faster"]
+		"uniques": ["[Great General] is earned [75]% faster"]
 	}
 ]
