@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead", "Uncapturable", "[-15]% Strength <vs [Military] units>", "May capture killed [Military] units", "[-5] HP when healing"]
+		"uniques": ["Undead", "Uncapturable", "[-15]% Strength <vs [Military] units>", "Can capture killed [Military] units <with [67]% chance>", "[-5] HP when healing"]
 	},
 	{
 		"name": "Breach the Walls",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Eat the Living",
-		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [25]% of the damage done to [All] units as [Gold]"]
+		"uniques": ["Heals [30] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [25]% of the damage done to [All] units as [Gold]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
