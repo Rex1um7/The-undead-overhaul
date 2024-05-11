@@ -12,7 +12,7 @@
                         "[+1 Food] <after discovering [The Wheel]>",
 			"[+1 Food] <after discovering [Civil Service]>",
 			"[+1 Production] <after discovering [Iron Working]>",
-			"[+1 Production] <after discovering [Biology]>",
+			"[+1 Production] <after discovering [Industrialization]>",
 			"Can be built outside your borders"],
 		"techRequired": "Agriculture",
 		"shortcutKey": "G"
