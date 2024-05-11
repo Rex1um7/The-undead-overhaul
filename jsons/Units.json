@@ -58,11 +58,10 @@
 		//"upgradesTo": "???(More Stronger bone dragon?)",
 		"uniques": ["[+150]% Strength <vs [Armored] units>",
 			"[+50]% Strength <vs [Mounted] units>",
-			"[-10]% Strength for enemy [Military] units in adjacent [1] tiles",
-			"[-5]% Strength for enemy [Military] units in adjacent [2] tiles",
-			"[+15]% Strength <during the [Industrial era]>",
-			"[+30]% Strength <during the [Modern era]>",
-			"[+50]% Strength <during the [Atomic era]>",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"[+10]% Strength <during the [Industrial era]>",
+			"[+25]% Strength <during the [Modern era]>",
+			"[+40]% Strength <during the [Atomic era]>",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
@@ -109,7 +108,6 @@
 		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Abyss] improvement <by consuming this unit>",
 			"[+20]% Strength bonus for [Military] units within [2] tiles",
-			"[-5]% Strength for enemy [Military] units in adjacent [2] tiles",
 			"Great Person - [Culture]",
 			"Unbuildable",
 			"Uncapturable"],
@@ -130,6 +128,6 @@
 			"Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"],
-		"movement": 3
+		"movement": 4
 	}
 ]
