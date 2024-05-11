@@ -52,7 +52,7 @@
 		"replaces": "Pikeman",
 		"uniqueTo": "The Undead",
 		"movement": 5,
-		"strength": 32,
+		"strength": 28,
 		"cost": 450,
 		"requiredTech": "Civil Service",
 		//"upgradesTo": "???(More Stronger bone dragon?)",
