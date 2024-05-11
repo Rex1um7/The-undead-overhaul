@@ -109,7 +109,7 @@
 		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Abyss] improvement <by consuming this unit>",
 			"[+20]% Strength bonus for [Military] units within [2] tiles",
-			"[-5]% Strength bonus for enemy [Millitary] units within [2] tiles",
+			"[-5]% Strength for enemy [Military] units within [2] tiles",
 			"Great Person - [Culture]",
 			"Unbuildable",
 			"Uncapturable"],
