@@ -66,8 +66,7 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
                         "No defensive terrain bonus",
-			"Can pass through impassable tiles",
-		        "[-1] Sight" ],
+			"Can pass through impassable tiles" ],
 		"attackSound": "gdrAttack"
 	},
 	{
