@@ -9,7 +9,7 @@
 		"uniques": ["Founds a new city",
 			"Ignores Zone of Control",
 		        "[-2] Sight"]
-		"promotions":{"Ignore terrain cost"},
+		"promotions":["Ignore terrain cost"]
 	},
 	{
 		"name": "Ghost",
