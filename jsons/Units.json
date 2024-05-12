@@ -7,7 +7,6 @@
 		"movement": 2,
 		"cost": 318,
 		"uniques": ["Founds a new city",
-		        "All tiles cost 1 movement",
 			"Ignores Zone of Control",
 		        "[-2] Sight"]
 	},
