@@ -88,9 +88,9 @@
 		"replaces": "Hospital",
 		"happiness": 2,
 		"culture": 2,
-		"percentStatBonus":{"food": 5},
+		"percentStatBonus":{"food": 10},
 		"requiredBuilding": "Aqueduct",
-		"maintenance": 4,
+		"maintenance": 5,
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology"
 	}
