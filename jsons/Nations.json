@@ -45,7 +45,9 @@
 			"[non-air] units gain the [Breach the Walls] promotion",
 			"[Melee] units gain the [Eat the Living] promotion",
 			"Gain a free [Infection] [in all cities]",
-			"[+15]% Strength <within [1] tiles of a [Graveyard]>"],
+			"[+15]% Strength <within [1] tiles of a [Graveyard]>",
+		        "[+5] HP when healing in friendly territory"],
+		
 		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
 			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
 			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
