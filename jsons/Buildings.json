@@ -9,7 +9,7 @@
                 "isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-		        "All newly-trained [non-air] units [in this city] receive the [Rejuvenation] promotion"],
+		        "All newly-trained [non-air] units [in all cities] receive the [Rejuvenation] promotion"],
                 "requiredTech": "Horseback Riding"
     },
 	{
@@ -21,7 +21,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
 			"[-25]% Gold cost of acquiring tiles [in all cities]",
-			"All newly-trained [non-air] units [in this city] receive the [Hard to Kill Twice] promotion",
+			"All newly-trained [non-air] units [in all cities] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -33,7 +33,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"All newly-trained [non-air] units [in this city] receive the [Sickening Plague] promotion",
+			"All newly-trained [non-air] units [in all cities] receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -56,7 +56,7 @@
 		"culture": 2,
 		"cost": 40,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]",
-			"Destroyed when the city is captured"],
+			    "Destroyed when the city is captured"],
 		"hurryCostModifier": 40,
 		"maintenance": 1
 	},
@@ -76,7 +76,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"uniques": ["Doubles Gold given to enemy if city is captured",
-			"All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
+			    "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
@@ -86,11 +86,11 @@
 		"name": "Morgue",
 		"uniqueTo": "The Undead",
 		"replaces": "Hospital",
-		"food": 3,
 		"happiness": 2,
 		"culture": 2,
+		"percentStatBonus":{"food": 5},
 		"requiredBuilding": "Aqueduct",
-		"maintenance": 2,
+		"maintenance": 4,
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology"
 	}
