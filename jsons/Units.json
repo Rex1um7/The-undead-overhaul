@@ -47,7 +47,7 @@
 	},
 	{
 		"name": "Bone Dragon",
-		"unitType": "Sword",
+		"unitType": "Armored",
 		"replaces": "Pikeman",
 		"uniqueTo": "The Undead",
 		"movement": 5,
