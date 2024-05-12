@@ -4,7 +4,7 @@
 		"uniques": ["Undead", 
                             "Uncapturable", 
                             "[-15]% Strength <vs [Military] units>", 
-                            "Capture killed [Military] units <with [100]% chance>", 
+                            "Can capture killed [Military] units <with [100]% chance>", 
                             "[-5] HP when healing"]
 	},
 	{
