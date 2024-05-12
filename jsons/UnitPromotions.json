@@ -4,7 +4,7 @@
 		"uniques": ["Undead", 
                             "Uncapturable", 
                             "[-15]% Strength <vs [Military] units>", 
-                            "May capture killed [Military] units <with [85]% chance>", 
+                            "Capture killed [Military] units <with [85]% chance>", 
                             "[-5] HP when healing"]
 	},
 	{
@@ -16,8 +16,8 @@
 	{
 		"name": "Eat the Living",
 		"uniques": ["Heals [30] damage if it kills a unit", 
-                            "Earn [35]% of killed [Military] unit's [Strength] as [Culture]", 
-                            "Earn [35]% of the damage done to [All] units as [Gold]"]
+                            "Earn [30]% of killed [Military] unit's [Strength] as [Culture]", 
+                            "Earn [30]% of the damage done to [All] units as [Gold]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
