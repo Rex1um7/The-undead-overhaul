@@ -3,7 +3,7 @@
 		"name": "Undead",
 		"uniques": ["Undead", 
                             "Uncapturable", 
-                            "[-15]% Strength <vs [Military] units>", 
+                            "[-20]% Strength <vs [Military] units>", 
                             "May capture killed [Military] units <with [80]% chance>", 
                             "[-5] HP when healing"]
 	},
@@ -16,8 +16,8 @@
 	{
 		"name": "Eat the Living",
 		"uniques": ["Heals [30] damage if it kills a unit", 
-                            "Earn [25]% of the damage done to [Military] units as [Culture]", 
-                            "Earn [30]% of the damage done to [Military] units as [Gold]"]
+                            "Earn [25]% of the damage done to [non-air] units as [Culture]", 
+                            "Earn [30]% of the damage done to [non-air] units as [Gold]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
@@ -26,7 +26,8 @@
 	{
 		"name": "Sickening Plague",
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-                            "[+10]% Strength <vs [Wounded] units>"]
+                            "[+10]% Strength <vs [Wounded] units>",
+			    "[+25]% XP gained from combat"],
 	},
 	{
 		"name": "Summon the Lich King",
