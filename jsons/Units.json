@@ -69,7 +69,8 @@
 			"Ignores Zone of Control",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[+100]% XP gained if it kills a unit"
+			"[+100]% XP gained if it kills a unit",
+			"[1] Movement point cost to embark", "[1] Movement point cost to disembark",
 		"attackSound": "gdrAttack"
 	},
 	{
