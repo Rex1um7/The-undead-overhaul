@@ -47,6 +47,7 @@
 			"Gain a free [Infection] [in all cities]",
 			"[+15]% Strength <within [1] tiles of a [Graveyard]>",
 		        "[+5] HP when healing <in [Friendly Land] tiles>"],
+			"No movement cost to pillage",
 		
 		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
 			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
