@@ -59,14 +59,17 @@
 		"uniques": ["[+150]% Strength <vs [Armored] units>",
 			"[+50]% Strength <vs [Mounted] units>",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-			"[+30]% Strength <during the [Industrial era]>",
+			"[+15]% Strength <during the [Renaissance era]>",
+			"[+35]% Strength <during the [Industrial era]>",
 			"[+75]% Strength <during the [Modern era]>",
 			"[+150]% Strength <during the [Atomic era]>",
+			"[+225]% Strength <during the [Information era]>",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
                         "No defensive terrain bonus",
-			"Can pass through impassable tiles" ],
+			"Can pass through impassable tiles",
+			"[+100]% XP gained if it kills a unit"
 		"attackSound": "gdrAttack"
 	},
 	{
