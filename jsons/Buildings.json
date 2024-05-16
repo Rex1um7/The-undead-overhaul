@@ -33,7 +33,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"All newly-trained [Land] units [in all cities] receive the [Sickening Plague] promotion",
+			"All newly-trained [non-air] units [in all cities] receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -66,7 +66,8 @@
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [3] population [in this city]"],
+		"uniques": ["[+1 Science] per [3] population [in this city]",
+			"[+2]% Science [in all cities]],
 		"requiredTech": "Writing"
 	},
 	{
