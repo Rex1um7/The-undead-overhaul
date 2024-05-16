@@ -68,7 +68,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [3] population [in this city]",
-			"[+2]% Science [in all cities]],
+			"[+2]% Science [in all cities]",
 		"requiredTech": "Writing"
 	},
 	{
