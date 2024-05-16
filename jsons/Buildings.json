@@ -56,7 +56,7 @@
 		"culture": 2,
 		"cost": 40,
 		"uniques": ["[-50]% Culture cost of natural border growth [in this city]",
-			    "[+4]% Culture [in all cities]" ,
+			    "[+4]% [Culture] [in all cities]" ,
 			    "Destroyed when the city is captured"],
 		"hurryCostModifier": 40,
 		"maintenance": 1
@@ -68,7 +68,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [3] population [in this city]",
-			"[+2]% Science [in all cities]"],
+			"[+2]% [Science] [in all cities]"],
 		"requiredTech": "Writing"
 	},
 	{
