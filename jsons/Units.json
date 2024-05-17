@@ -8,7 +8,9 @@
 		"cost": 318,
 		"uniques": ["Founds a new city",
 			"Ignores Zone of Control",
-		        "[-2] Sight"]
+		        "No Sight",
+			"Excess Food converted to Production when under construction"
+		],
 		"promotions":["Ignore terrain cost"]
 	},
 	{
