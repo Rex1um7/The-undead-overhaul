@@ -38,7 +38,7 @@
 			"[+25]% XP gained from combat",
                         "[+10]% Strength <vs [Wounded] units>",
 			"[+100]% City-State Influence degradation",
-			"Resting point for Influence with City-States is increased by [-60]",
+			"Resting point for Influence with City-States is increased by [-30]",
 			"[-50]% Golden Age length",
 			"[-50]% maintenance costs <for [All] units>",
 			"[All] units gain the [Undead] promotion",
@@ -46,8 +46,7 @@
 			"[Military] units gain the [Eat the Living] promotion",
 			"Gain a free [Infection] [in all cities]",
 			"[+15]% Strength <within [1] tiles of a [Graveyard]>",
-		        "[+5] HP when healing <in [Friendly Land] tiles>",
-			"No movement cost to pillage"],
+		        "[+5] HP when healing <in [Friendly Land] tiles>"],
 		
 		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
 			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
