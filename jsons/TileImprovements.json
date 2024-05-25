@@ -22,6 +22,7 @@
 		"culture": 4,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Gives a defensive bonus of [75]%",
+			"Removes removable features when built",
 			"Great Improvement"]
 	}
 ]
