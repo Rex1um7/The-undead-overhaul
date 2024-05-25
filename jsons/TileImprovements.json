@@ -23,6 +23,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Gives a defensive bonus of [75]%",
 			"Removes removable features when built",
+			"Provides [1] [Artist Perk] <starting from the [Industrial era]>",
 			"Great Improvement"]
 	}
 ]
