@@ -5,7 +5,7 @@
 		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 318,
+		"cost": 212,
 		"uniques": ["Founds a new city",
 			"Ignores Zone of Control",
 		        "No Sight",
