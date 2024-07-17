@@ -2,7 +2,7 @@
     {
 		"name": "Graveyard",
 		"uniqueTo": "The Undead",
-		"food": -2,
+		"food": -1,
 		"gold": -2,
 		"production": -2,
 		"happiness": -2,
@@ -21,9 +21,14 @@
 		"name": "Abyss",
 		"culture": 4,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Gives a defensive bonus of [75]%",
+		"uniques": [
+			"Unpillagable",
+			"Gives a defensive bonus of [75]%",
+			"Tile provides yield without assigned population",
+			"Adjacent enemy units ending their turn take [15] damage",
 			"Removes removable features when built",
 			"Provides [1] [Artist Perk] <starting from the [Industrial era]>",
-			"Great Improvement"]
+			"Great Improvement"
+		]
 	}
 ]
