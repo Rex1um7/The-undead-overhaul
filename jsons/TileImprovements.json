@@ -4,7 +4,7 @@
 		"uniqueTo": "The Undead",
 		"food": -1,
 		"gold": -2,
-		"production": -2,
+		"production": -1,
 		"happiness": -2,
 		"turnsToBuild": 5,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
