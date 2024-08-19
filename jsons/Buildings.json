@@ -7,9 +7,11 @@
                 "happiness": 5,
                 "culture": 1,
                 "isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
+		"uniques": [
+			"Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-		        "All newly-trained [non-air] units [in all cities] receive the [Rejuvenation] promotion"],
+		        "All newly-trained [non-air] units [in all cities] receive the [Rejuvenation] promotion"
+		],
                 "requiredTech": "Horseback Riding"
     },
 	{
@@ -19,10 +21,12 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
+		"uniques": [
+			"Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
 			"[-25]% Gold cost of acquiring tiles [in all cities]",
 			"All newly-trained [non-air] units [in all cities] receive the [Hard to Kill Twice] promotion",
-			"Cost increases by [30] per owned city"],
+			"Cost increases by [30] per owned city"
+		],
 		"requiredTech": "Philosophy"
 	},
 	{
@@ -32,9 +36,11 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
+		"uniques": [
+			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
 			"All newly-trained [non-air] units [in all cities] receive the [Sickening Plague] promotion",
-			"Cost increases by [30] per owned city"],
+			"Cost increases by [30] per owned city"
+		],
 		"requiredTech": "Iron Working"
 	},
 	{
@@ -42,11 +48,13 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Courthouse",
 		"happiness": 3,
-		"uniques": ["Remove extra unhappiness from annexed cities",
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
 			"[-10]% Production when constructing [All] wonders [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
-			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]"],
+			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]"
+		],
 		"cost": 0
 	},
 	{
@@ -55,9 +63,11 @@
 		"replaces": "Monument",
 		"culture": 2,
 		"cost": 40,
-		"uniques": ["[-50]% Culture cost of natural border growth [in this city]",
-			    "[+4]% [Culture] [in all cities]" ,
-			    "Destroyed when the city is captured"],
+		"uniques": [
+			"[-50]% Culture cost of natural border growth [in this city]",
+			"[+4]% [Culture] [in all cities]" ,
+			"Destroyed when the city is captured"
+		],
 		"hurryCostModifier": 40,
 		"maintenance": 1
 	},
@@ -67,8 +77,11 @@
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [3] population [in this city]",
-			"[+4]% [Science] [in all cities]"],
+		"uniques": [
+			"[+1 Science] per [3] population [in this city]",
+			"[+4]% [Science] [in all cities]",
+			"Destroyed when the city is captured"
+		],
 		"requiredTech": "Writing"
 	},
 	{
@@ -77,8 +90,10 @@
 		"replaces": "Bank",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"uniques": ["Doubles Gold given to enemy if city is captured",
-			    "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
+		"uniques": [
+			"Doubles Gold given to enemy if city is captured",
+			"All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"
+		],
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
