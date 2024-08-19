@@ -54,7 +54,8 @@
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
 			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]",
-			"[+1 Gold, +1 Happiness, +1 Food, +1 Production] from [Graveyard] tiles [in this city] <during a Golden Age>"
+			"[+1 Gold, +1 Happiness, +1 Food, +1 Production] from [Graveyard] tiles [in this city] <during a Golden Age>",
+			"[+10]% growth [in this city] <during We Love The King Day>"
 		],
 		"cost": 0
 	},
