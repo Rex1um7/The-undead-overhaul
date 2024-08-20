@@ -4,7 +4,7 @@
 		"uniques": ["Undead", 
                             "Uncapturable", 
                             "[-20]% Strength <vs [Military] units>", 
-                            "May capture killed [Military] units <with [80]% chance>", 
+                            "May capture killed [Military] units <with [75]% chance>", 
                             "[-5] HP when healing"]
 	},
 	{
@@ -16,12 +16,12 @@
 	{
 		"name": "Eat the Living",
 		"uniques": ["Heals [30] damage if it kills a unit", 
-                            "Earn [25]% of the damage done to [non-air] units as [Culture]", 
-                            "Earn [30]% of the damage done to [non-air] units as [Gold]"]
+                            "Earn [20]% of the damage done to [non-air] units as [Culture]", 
+                            "Earn [20]% of the damage done to [non-air] units as [Gold]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"uniques": ["[+20]% Strength <when defending>"]
+		"uniques": ["[+25]% Strength <when defending>"]
 	},
 	{
 		"name": "Sickening Plague",
