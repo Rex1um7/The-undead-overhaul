@@ -2,22 +2,26 @@
 	{
 		"name": "Undead",
 		"uniques": ["Undead", 
-                            "Uncapturable", 
-                            "[-20]% Strength <vs [Military] units>", 
-                            "May capture killed [Military] units <with [75]% chance>", 
-                            "[-5] HP when healing"]
+                        "Uncapturable", 
+                        "[-20]% Strength <vs [Military] units>", 
+                        "May capture killed [Military] units <with [75]% chance>", 
+                        "[-5] HP when healing",
+			"[+15]% to Flank Attack bonuses"
+			]
 	},
 	{
 		"name": "Breach the Walls",
 		"uniques": ["[+20]% Strength <vs cities> <when attacking>",
                             "Double movement in [Fallout]", 
-                            "[+85]% Strength <when fighting in [Fallout] tiles>"]
+                            "[+75]% Strength <when fighting in [Fallout] tiles>"]
 	},
 	{
 		"name": "Eat the Living",
-		"uniques": ["Heals [30] damage if it kills a unit", 
-                            "Earn [20]% of the damage done to [non-air] units as [Culture]", 
-                            "Earn [20]% of the damage done to [non-air] units as [Gold]"]
+		"uniques": [
+			"Heals [30] damage if it kills a unit", 
+                        "Earn [20]% of the damage done to [non-air] units as [Culture]", 
+                        "Earn [20]% of the damage done to [non-air] units as [Gold]"
+		]
 	},
 	{
 		"name": "Hard to Kill Twice",
