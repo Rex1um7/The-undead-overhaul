@@ -67,15 +67,14 @@
 			"[+80]% Strength <during the [Modern era]>",
 			"[+160]% Strength <during the [Atomic era]>",
 			"[+225]% Strength <during the [Information era]>",
-			"[+300]% Strength <after discovering [Future Tech]>",
+			"[+300]% Strength <after discovering [Lasers]>",
 			"[+100]% Strength <when below [20] HP> <hidden from users>",
 			"Can move after attacking",
 			"Ignores Zone of Control",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
 			"[+100]% XP gained from combat",
-			"[0] Movement point cost to embark <in [Graveyard] tiles>", 
-			"[1] Movement point cost to disembark"
+			"[0] Movement point cost to embark <in [Graveyard] tiles>" 
 		],
 		"promotions":["Ignore terrain cost"],
 		"attackSound": "gdrAttack"
