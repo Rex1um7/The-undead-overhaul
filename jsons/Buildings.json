@@ -54,9 +54,8 @@
 			"[+20]% Production when constructing [Military] units [in this city]",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
 			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]",
-			"[+1 Food, +1 Gold] from [Graveyard] tiles [in this city] <when above [150] Happiness>",
-			"[+10]% growth [in this city] <during We Love The King Day> <hidden from users>",
-			"[+10]% growth [in this city] <during a Golden Age> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Graveyard] tiles [in this city] <when above [200] Happiness>",
+			"[+33]% growth [in this city] <when above [100] Happiness>"
 		],
 		"cost": 0
 	},
@@ -106,11 +105,11 @@
 		"name": "Morgue",
 		"uniqueTo": "The Undead",
 		"replaces": "Hospital",
-		"happiness": 3,
-		"culture": 3,
+		"happiness": 4,
+		"culture": 4,
 		"percentStatBonus":{"food": 10},
 		"requiredBuilding": "Aqueduct",
-		"maintenance": 8,
+		"maintenance": 12,
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology"
 	}
