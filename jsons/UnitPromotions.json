@@ -3,7 +3,7 @@
 		"name": "Undead",
 		"uniques": ["Undead", 
                         "Uncapturable", 
-                        "[-20]% Strength <vs [Military] units>", 
+                        "[-15]% Strength <vs [Military] units>", 
 			"[-10]% Strength <for [Ranged] units> <when attacking>",
                         "May capture killed [Military] units <with [75]% chance>", 
                         "[-5] HP when healing",
