@@ -32,7 +32,8 @@
 			"Can see invisible [Military] units",
 			"[+1] Sight",
 			"Withdraws before melee combat <with [100]% chance>",
-			"Unable to capture cities"
+			"Unable to capture cities",
+			"Limited to [20] per Civilization <hidden from users>"
 		]
 	},
 	{
@@ -80,7 +81,8 @@
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
-			"[0] Movement point cost to embark <in [Graveyard] tiles>" 
+			"[0] Movement point cost to embark <in [Graveyard] tiles>",
+			"Limited to [20] per Civilization <hidden from users>"
 		],
 		"attackSound": "gdrAttack"
 	},
