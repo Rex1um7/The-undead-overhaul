@@ -54,7 +54,7 @@
 			"[+20]% Production when constructing [Military] units [in this city]",
 			"[+2 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
 			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]",
-			"[+10]% [Food] [in this cities] <when above [250] Happiness>",
+			"[+10]% [Food] [in this city] <when above [250] Happiness>",
 			"[+16]% growth [in this city] <when above [150] Happiness>",
 			"[+17]% growth [in this city] <after discovering [Philosophy]>"
 		],
