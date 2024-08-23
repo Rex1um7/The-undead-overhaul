@@ -5,7 +5,7 @@
                         "Uncapturable", 
                         "[-15]% Strength <vs [Military] units>", 
 			"[-10]% Strength <for [Ranged] units> <when attacking>",
-			"[-10]% Strength <vs [Ranged] units> <when defending>",
+			"[-15]% Strength <vs [Ranged] units> <when defending>",
                         "May capture killed [Military] units <with [75]% chance>", 
                         "[-5] HP when healing",
 			"[+20]% to Flank Attack bonuses",
@@ -33,9 +33,11 @@
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+		"uniques": [
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
                             "[+15]% Strength <vs [Wounded] units>",
-			    "[+25]% XP gained from combat"],
+			    "[+25]% XP gained from combat"
+		],
 	},
 	{
 		"name": "Summon the Lich King",
