@@ -9,7 +9,7 @@
 		"uniques": [
 			"Founds a new city",
 			"Ignores Zone of Control",
-			"Ignore terrain cost",
+			"Ignores terrain cost",
 		        "No Sight",
 			"Excess Food converted to Production when under construction"
 		],
@@ -23,7 +23,7 @@
 		"movement": 3,
 		"cost": 30,
 		"uniques": [
-			"Ignore terrain cost",
+			"Ignores terrain cost",
 			"Ignores Zone of Control",
 			"May enter foreign tiles without open borders",
 			"Can pass through impassable tiles",
@@ -66,18 +66,19 @@
 		"requiredTech": "Civil Service",
 		//"upgradesTo": "???(More Stronger bone dragon?)",
 		"uniques": [
-			"[+125]% Strength <vs [Armored] units>",
+			"[+100]% Strength <vs [Armored] units>",
 			"[+35]% Strength <vs [Mounted] units>",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-			"[+20]% Strength <after discovering [Banking]> <hidden from users>",
-			"[+25]% Strength <after discovering [Archaeology]> <hidden from users>",
-			"[+40]% Strength <after discovering [Replaceable Parts]> <hidden from users>",
+			"[+25]% Strength <after discovering [Banking]> <hidden from users>",
+			"[+30]% Strength <after discovering [Archaeology]> <hidden from users>",
+			"[+35]% Strength <after discovering [Replaceable Parts]> <hidden from users>",
 			"[+40]% Strength <after discovering [Atomic Theory]> <hidden from users>",
 			"[+40]% Strength <after discovering [Satellites]> <hidden from users>",
-			"[+75]% Strength <when below [25] HP>",
+			"[+75]% Strength <when below [25] HP> <when attacking>",
+			"[-25]% Strength <when below [25] HP> <when defending>",
 			"Can move after attacking",
 			"Ignores Zone of Control",
-			"Ignore terrain cost"
+			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
