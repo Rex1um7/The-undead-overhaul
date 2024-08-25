@@ -115,7 +115,7 @@
 		"movement": 5,
 		"strength": 40,
 		"cost": 525,
-		"requiredTech": "Archaelogy",
+		"requiredTech": "Archaeology",
 		"upgradesTo": "Bone Dragon IV",
 		"uniques": [
 			"[+100]% Strength <vs [Armored] units>",
