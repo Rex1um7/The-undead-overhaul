@@ -76,7 +76,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>"
 	        ],
@@ -102,7 +102,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>",
 			"Will not be displayed in Civilopedia"
@@ -129,7 +129,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>",
 			"Will not be displayed in Civilopedia"
@@ -156,7 +156,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>",
 			"Will not be displayed in Civilopedia"
@@ -183,7 +183,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>",
 			"Will not be displayed in Civilopedia"
@@ -210,7 +210,7 @@
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
 			"Can pass through impassable tiles",
-			"[4] XP gained from combat",
+			"[2] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
 			"Limited to [20] per Civilization <hidden from users>",
 			"Will not be displayed in Civilopedia"
