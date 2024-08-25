@@ -104,7 +104,8 @@
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
-			"Limited to [20] per Civilization <hidden from users>"
+			"Limited to [20] per Civilization <hidden from users>",
+			"Will not be displayed in Civilopedia"
 		],
 		"attackSound": "gdrAttack"
 	},
@@ -130,7 +131,8 @@
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
-			"Limited to [20] per Civilization <hidden from users>"
+			"Limited to [20] per Civilization <hidden from users>",
+			"Will not be displayed in Civilopedia"
 		],
 		"attackSound": "gdrAttack"
 	},
@@ -156,7 +158,8 @@
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
-			"Limited to [20] per Civilization <hidden from users>"
+			"Limited to [20] per Civilization <hidden from users>",
+			"Will not be displayed in Civilopedia"
 		],
 		"attackSound": "gdrAttack"
 	},
@@ -182,7 +185,8 @@
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
-			"Limited to [20] per Civilization <hidden from users>"
+			"Limited to [20] per Civilization <hidden from users>",
+			"Will not be displayed in Civilopedia"
 		],
 		"attackSound": "gdrAttack"
 	},
@@ -208,7 +212,8 @@
 			"Can pass through impassable tiles",
 			"[4] XP gained from combat",
 			"[0] Movement point cost to embark <in [Graveyard] tiles>",
-			"Limited to [20] per Civilization <hidden from users>"
+			"Limited to [20] per Civilization <hidden from users>",
+			"Will not be displayed in Civilopedia"
 		],
 		"attackSound": "gdrAttack"
 	},
