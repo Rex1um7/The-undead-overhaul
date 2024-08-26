@@ -312,6 +312,7 @@ TileSets/AbsoluteUnits/Units/Bone Dragon
   orig: 32, 28
   offset: 0, 0
   index: -1
+//Bone Dragon 
 TileSets/FantasyHex/FantasyHex/Units/Bone Dragon
   rotate: false
   xy: 1164, 165
@@ -327,6 +328,151 @@ TileSets/FantasyHex/Units/Bone Dragon
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Bone Dragon
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+//Bone Dragon II
+TileSets/AbsoluteUnits/Units/Bone Dragon II
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Bone Dragon II
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bone Dragon II
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bone Dragon II
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+//Bone Dragon III
+TileSets/AbsoluteUnits/Units/Bone Dragon III
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Bone Dragon III
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bone Dragon III
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bone Dragon III
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+//Bone Dragon IV
+TileSets/AbsoluteUnits/Units/Bone Dragon IV
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Bone Dragon IV
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bone Dragon IV
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bone Dragon IV
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+//Bone Dragon V
+TileSets/AbsoluteUnits/Units/Bone Dragon V
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Bone Dragon V
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bone Dragon V
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bone Dragon V
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+//Bone Dragon VI 
+TileSets/AbsoluteUnits/Units/Bone Dragon VI
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Bone Dragon VI
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bone Dragon VI
+  rotate: false
+  xy: 1164, 165
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bone Dragon VI
   rotate: false
   xy: 1164, 165
   size: 32, 28
