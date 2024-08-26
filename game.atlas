@@ -305,6 +305,7 @@ TileSets/HexaRealm/Units/Black Death
   orig: 32, 28
   offset: 0, 0
   index: -1
+//Bone Dragon 
 TileSets/AbsoluteUnits/Units/Bone Dragon
   rotate: false
   xy: 1164, 165
@@ -312,7 +313,6 @@ TileSets/AbsoluteUnits/Units/Bone Dragon
   orig: 32, 28
   offset: 0, 0
   index: -1
-//Bone Dragon 
 TileSets/FantasyHex/FantasyHex/Units/Bone Dragon
   rotate: false
   xy: 1164, 165
@@ -1747,6 +1747,41 @@ UnitIcons/Black Death
   offset: 0, 0
   index: -1
 UnitIcons/Bone Dragon
+  rotate: false
+  xy: 220, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bone Dragon II
+  rotate: false
+  xy: 220, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bone Dragon III
+  rotate: false
+  xy: 220, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bone Dragon IV
+  rotate: false
+  xy: 220, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bone Dragon V
+  rotate: false
+  xy: 220, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bone Dragon VI
   rotate: false
   xy: 220, 151
   size: 100, 100
