@@ -53,7 +53,7 @@
 			"[-10]% Production when constructing [All] wonders [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[+2 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
-			"[+4 Culture, +4 Production, +4 Gold, +4 Food] from [Abyss] tiles [in this city]",
+			"[+3 Culture, +2 Production, +2 Gold, +2 Food] from [Abyss] tiles [in this city]",
 			"[+10]% [Food] [in this city] <when above [250] Happiness>",
 			"[+15]% growth [in this city] <when above [125] Happiness>",
 			"[+15]% growth [in this city] <after discovering [Philosophy]>"
