@@ -20,13 +20,13 @@
 	},
 	{
 		"name": "Abyss",
-		"culture": 4,
+		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Unpillagable",
-			"Gives a defensive bonus of [75]%",
+			"Gives a defensive bonus of [50]%",
 			"Tile provides yield without assigned population",
-			"Adjacent enemy units ending their turn take [15] damage",
+			"Adjacent enemy units ending their turn take [20] damage",
 			"Removes removable features when built",
 			"Provides [1] [Artist Perk] <starting from the [Industrial era]>",
 			"Great Improvement"
