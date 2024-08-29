@@ -39,7 +39,8 @@
 		"uniques": [
 			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
 			"All newly-trained [non-air] units [in all cities] receive the [Sickening Plague] promotion",
-			"Cost increases by [30] per owned city"
+			"Cost increases by [30] per owned city",
+			"Triggers the following global alert: [War Just Begin]"
 		],
 		"requiredTech": "Iron Working"
 	},
