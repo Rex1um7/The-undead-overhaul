@@ -50,7 +50,8 @@
 		"requiredResource": "Horses",
 		"uniques": [
 			"Can move after attacking",
-			"No defensive terrain bonus"
+			"No defensive terrain bonus",
+			"All adjacent units heal [+5] HP when healing"
 		],
 		"promotions": ["Sickening Plague","Rejuvenation"],
 		"attackSound": "horse"
