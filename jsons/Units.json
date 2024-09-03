@@ -8,10 +8,9 @@
 		"cost": 159,
 		"uniques": [
 			"Founds a new city",
-			"Ignores Zone of Control",
 			"Ignores terrain cost",
 		        "No Sight",
-			"Excess Food converted to Production when under construction"
+			"Can move immediately once bought"
 		],
 	},
 	{
@@ -276,6 +275,7 @@
 		"uniques": [
 			"Ignores terrain cost",
 			"Can pass through impassable tiles",
+			"Can carry [3] [Military] units",
 			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"All adjacent units heal [+10] HP when healing",
 			"[+5] HP when healing",
