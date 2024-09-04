@@ -10,7 +10,7 @@
 		"uniques": [
 			"Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-		        "All newly-trained [non-air] units [in all cities] receive the [Rejuvenation] promotion"
+		        "All newly-trained [{non-air}{Military}] units [in all cities] receive the [Rejuvenation] promotion"
 		],
                 "requiredTech": "Horseback Riding"
     },
@@ -24,7 +24,7 @@
 		"uniques": [
 			"Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
 			"[-25]% Gold cost of acquiring tiles [in all cities]",
-			"All newly-trained [non-air] units [in all cities] receive the [Hard to Kill Twice] promotion",
+			"All newly-trained [{non-air}{Military}] units [in all cities] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"
 		],
 		"requiredTech": "Philosophy"
@@ -38,7 +38,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"All newly-trained [non-air] units [in all cities] receive the [Sickening Plague] promotion",
+			"All newly-trained [{non-air}{Military}] units [in all cities] receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city",
 			"Triggers the following global alert: [War Just Begin]"
 		],
