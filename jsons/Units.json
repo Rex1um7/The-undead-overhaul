@@ -74,6 +74,7 @@
 			"[+50]% Strength <when below [25] HP> <when attacking> <with [50]% chance>",
 			"[-25]% Strength <when below [25] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -100,6 +101,7 @@
 			"[+50]% Strength <when below [25] HP> <when attacking> <with [70]% chance>",
 			"[-25]% Strength <when below [25] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -127,6 +129,7 @@
 			"[+50]% Strength <when below [33] HP> <when attacking> <with [70]% chance>",
 			"[-25]% Strength <when below [33] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -154,6 +157,7 @@
 			"[+50]% Strength <when below [33] HP> <when attacking> <with [70]% chance>",
 			"[-25]% Strength <when below [33] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -181,6 +185,7 @@
 			"[+75]% Strength <when below [33] HP> <when attacking> <with [70]% chance>",
 			"[-25]% Strength <when below [33] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -207,6 +212,7 @@
 			"[+75]% Strength <when below [33] HP> <when attacking>",
 			"[-25]% Strength <when below [33] HP> <when defending>",
 			"Can move after attacking",
+			"Can carry [2] [Guided Missile] units",
 			"Ignores Zone of Control",
 			"Ignores terrain cost",
                         "No defensive terrain bonus",
@@ -233,6 +239,7 @@
 			"Damage taken from interception reduced by [100]%",
 			"Cannot be carried by [Carrier] units",
 			"[+4] Sight", 
+			"Destroys tile improvements when attacking",
 			"Can see over obstacles"
 		],
 		"attackSound": "bombing"
@@ -275,9 +282,8 @@
 		"replaces": "Great General",
 		"uniques": [
 			"Ignores terrain cost",
-			"Can pass through impassable tiles",
-			"Can carry [3] [Military] units",
 			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
+			"Transfer Movement to [Military]",
 			"All adjacent units heal [+10] HP when healing",
 			"[+5] HP when healing",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -287,7 +293,7 @@
 			"Unbuildable",
 			"Uncapturable"
 		],
-		"movement": 4
+		"movement": 3
 	}
 	//Necrosavant
 	
