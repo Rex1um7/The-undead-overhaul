@@ -1858,3 +1858,16 @@ UnitPromotionIcons/Undead
   orig: 50, 50
   offset: 0, 0
   index: -1
+
+LeaderIcons.png
+size: 596, 596
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/The Mindless Horde
+  rotate: false
+  xy: 0, 0
+  size: 596, 596
+  orig: 596, 596
+  offset: 0, 0
+  index: -1
