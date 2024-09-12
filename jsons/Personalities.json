@@ -1,29 +1,32 @@
-{
-    "name": "The Mindless Horde",
-    "production": 8,
-    "food": 4,
-    "gold": 6,
-    "science": 6,
-    "culture": 6,
-    "happiness": 7,
-    "faith": 5,
-    "military": 9,
-    "aggressive": 8,
-    "declareWar": 8,
-    "commerce": 6,
-    "diplomacy": 5,
-    "loyal": 5,
-    "expansion": 7,
-    "priorities": {
-      "Tradition": 3,
-      "Liberty": 8,
-      "Honor": 8,
-      "Commerce": 7,
-      "Patronage": 4,
-      "Piety": 3,
-      "Rationalism": 7,
-      "Freedom": 3,
-      "Autocracy": 9,
-      "Order": 3
+[
+    {
+        "name": "The Mindless Horde",
+        "production": 8,
+        "food": 4,
+        "gold": 6,
+        "science": 6,
+        "culture": 6,
+        "happiness": 7,
+        "faith": 5,
+        "military": 9,
+        "aggressive": 8,
+        "declareWar": 8,
+        "commerce": 6,
+        "diplomacy": 5,
+        "loyal": 5,
+        "expansion": 7,
+        "priorities": 
+        {
+          "Tradition": 3,
+          "Liberty": 8,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 4,
+          "Piety": 3,
+          "Rationalism": 7,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 3
+        }
     }
-  },
+]
