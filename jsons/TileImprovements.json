@@ -28,7 +28,7 @@
 			"Tile provides yield without assigned population",
 			"Adjacent enemy units ending their turn take [20] damage",
 			"Removes removable features when built",
-			"Provides [1] [Artist Perk] <starting from the [Industrial era]> <if [Future-Expansion] is enabled>",
+			"Provides [1] [Artist Perk] <if [Future-Expansion] is enabled> <starting from the [Industrial era]>",
 			"Great Improvement"
 		]
 	}
