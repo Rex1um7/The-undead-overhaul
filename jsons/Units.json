@@ -28,7 +28,7 @@
 			"Can see over obstacles",
 			"Can pass through impassable tiles",
 			"Invisible to non-adjacent units",
-			"[-100]% Strength <when defending> <hidden from users>",
+			"[-50]% Strength <when defending> <hidden from users>",
 			"Can see invisible [Military] units",
 			"[+1] Sight",
 			"Withdraws before melee combat <with [100]% chance>",
