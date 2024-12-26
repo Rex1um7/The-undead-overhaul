@@ -5,7 +5,6 @@
 			"Undead", 
                         "Uncapturable", 
                         "[-15]% Strength <vs [Military] units>", 
-			"[-10]% Strength <for [Ranged] units> <when attacking>",
 			"[-10]% Strength <vs [Ranged] units> <when defending>",
                         "May capture killed [Military] units <with [75]% chance>", 
                         "[-5] HP when healing",
