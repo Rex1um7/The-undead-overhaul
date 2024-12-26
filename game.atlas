@@ -759,6 +759,34 @@ TileSets/HexaRealm/Units/Ghost
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Big Ghost
+  rotate: false
+  xy: 1574, 223
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/FantasyHex/Units/Big Ghost
+  rotate: false
+  xy: 1574, 223
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Big Ghost
+  rotate: false
+  xy: 1574, 223
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Big Ghost
+  rotate: false
+  xy: 1574, 223
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Giant Death Robot-Undead
   rotate: false
   xy: 244, 7
@@ -1789,6 +1817,13 @@ UnitIcons/Bone Dragon VI
   offset: 0, 0
   index: -1
 UnitIcons/Ghost
+  rotate: false
+  xy: 328, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Big Ghost
   rotate: false
   xy: 328, 151
   size: 100, 100
