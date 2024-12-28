@@ -25,7 +25,7 @@
 		"uniques": [
 			"Unpillagable",
 			"Gives a defensive bonus of [50]%",
-			"Can only be built on [Foreign Land] tiles",
+			"Can be built just outside your borders",
 			"Tile provides yield without assigned population",
 			"Adjacent enemy units ending their turn take [20] damage",
 			"Removes removable features when built",
