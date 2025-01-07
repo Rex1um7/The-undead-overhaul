@@ -10,7 +10,8 @@
 			"Founds a new city",
 			"Ignores terrain cost",
 		        "No Sight",
-			"Can move immediately once bought"
+			"Can move immediately once bought",
+			"Comment [A zombie lab [cityName] has been settled] <upon founding a city>",
 		],
 	},
 	{
