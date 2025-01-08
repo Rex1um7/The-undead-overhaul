@@ -94,7 +94,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"[+1 Science] per [3] population [in this city]",
-			"[+2]% [Science] [in all cities]",
+			"[+3]% [Science] [in all cities]",
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Writing"
