@@ -28,7 +28,7 @@
 			"Unpillagable",
 			"Gives a defensive bonus of [50]%",
 			"Can be built outside your borders",
-			"[+3 Culture, +2 Production, +2 Gold, +2 Food] <in [Friendly Land] tiles>",
+			"[+3 Culture, +2 Production, +2 Gold, +2 Food] <in [Foreign Land] tiles> <hidden from users>",
 			"Tile provides yield without assigned population",
 			"Adjacent enemy units ending their turn take [20] damage",
 			"Removes removable features when built",
