@@ -50,6 +50,7 @@
 		"name": "Infection",
 		"uniqueTo": "The Undead",
 		"replaces": "Courthouse",
+		"cost": 1,
 		"happiness": 3,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
@@ -69,7 +70,6 @@
 			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>",
 			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
 		],
-		"cost": -1,
 	},
 	{
 		"name": "Memento Mori",
