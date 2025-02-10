@@ -9,12 +9,15 @@
 		"turnsToBuild": 5,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Snow"],
 		"uniques": [
-			"Gives a defensive bonus of [-20]%",
+			"Gives a defensive bonus of [-10]%",
                         "[+1 Food] <after discovering [The Wheel]>",
 			"[+1 Food] <after discovering [Civil Service]>",
 			"[+1 Production] <after discovering [Iron Working]>",
 			"[+1 Production] <after discovering [Industrialization]>",
-			"Can be built outside your borders"],
+			"[-1 Food, -1 Production] <in [Bonus Resources] tiles>",
+			"[-1 Food, -1 Production] <in [Strategic resources] tiles>",
+			"Can be built outside your borders"
+		],
 		"techRequired": "Agriculture",
 		"shortcutKey": "G"
 	},
@@ -26,6 +29,7 @@
 			"Unpillagable",
 			"Gives a defensive bonus of [50]%",
 			"Can be built outside your borders",
+			"[+3 Culture, +2 Production, +2 Gold, +2 Food] <on foreign continents>",
 			"Tile provides yield without assigned population",
 			"Adjacent enemy units ending their turn take [20] damage",
 			"Removes removable features when built",
