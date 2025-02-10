@@ -14,8 +14,8 @@
 			"[+1 Food] <after discovering [Civil Service]>",
 			"[+1 Production] <after discovering [Iron Working]>",
 			"[+1 Production] <after discovering [Industrialization]>",
-			"[-1 Food, -1 Production] <in [Bonus Resources] tiles>",
-			"[-1 Food, -1 Production] <in [Strategic resources] tiles>",
+			"[-1 Food, -1 Production] <in [Bonus] tiles>",
+			"[-1 Food, -1 Production] <in [Strategic] tiles>",
 			"Can be built outside your borders"
 		],
 		"techRequired": "Agriculture",
