@@ -69,8 +69,6 @@
 			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>",
 			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
 		],
-		],
-		"cost": 0
 	},
 	{
 		"name": "Memento Mori",
