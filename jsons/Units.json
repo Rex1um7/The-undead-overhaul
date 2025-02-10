@@ -11,7 +11,6 @@
 			"Ignores terrain cost",
 		        "No Sight",
 			"Can move immediately once bought",
-			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
 		],
 	},
 	{
