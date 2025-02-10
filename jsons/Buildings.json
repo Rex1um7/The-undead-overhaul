@@ -66,7 +66,9 @@
 			"[+3 Culture, +2 Production, +2 Gold, +2 Food] from [Abyss] tiles [in this city]",
 			"[+15]% growth [in this city] <when above [350] Happiness>",
 			"[+15]% growth [in this city] <when above [175] Happiness>",
-			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>"
+			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>",
+			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
+		],
 		],
 		"cost": 0
 	},
