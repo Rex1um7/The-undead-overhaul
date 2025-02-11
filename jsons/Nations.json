@@ -31,14 +31,14 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Infectious Horde",
 		"uniques": [
-			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[-66]% Unhappiness from [Population] [in all cities]",
 			"[-33]% [Culture] [in all cities]",
 			"[-33]% [Science] [in all cities]",
 			"[-33]% growth [in all cities]",
-			"[+15]% Strength <vs [City-States]>",
-                        "[+15]% Strength <vs [Wounded] units>",
+			"[+20]% Strength <vs [City-States]>",
+                        "[+10]% Strength <vs [Wounded] units>",
 			"[+50]% City-State Influence degradation",
-			"Resting point for Influence with City-States is increased by [-30]",
+			"Resting point for Influence with City-States is increased by [-20]",
 			"[-33]% Golden Age length",
 			"[-50]% maintenance costs <for [All] units>",
 			"[All] units gain the [Undead] promotion",
@@ -46,7 +46,8 @@
 			"[Military] units gain the [Eat the Living] promotion",
 			"Gain a free [Infection] [in all cities]",
 			"[+15]% Strength <within [1] tiles of a [Graveyard]>",
-		        "[+5] HP when healing <in [Friendly Land] tiles>"
+		        "[+5] HP when healing <in [Friendly Land] tiles>",
+			"[+5] HP when healing <in [Graveyard] tiles>",
 		],
 		
 		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
