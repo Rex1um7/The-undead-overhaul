@@ -1,9 +1,9 @@
 [
     {
         "name": "The Mindless Horde",
-        "production": 10,
-        "food": 9,
-        "gold": 6,
+        "production": 9,
+        "food": 8,
+        "gold": 5,
         "science": 10,
         "culture": 7,
         "happiness": 4,
@@ -11,10 +11,10 @@
         "military": 9,
         "aggressive": 10,
         "declareWar": 8,
-        "commerce": 8,
+        "commerce": 7,
         "diplomacy": 7,
         "loyal": 9,
-        "expansion": 10,
+        "expansion": 9,
         "priorities": 
         {
           "Tradition": 3,
