@@ -11,7 +11,7 @@
 			"Ignores terrain cost",
 		        "No Sight",
 			"Can move immediately once bought",
-			"[+33]% [Food] [in this city] <upon gaining a [Settler] unit>",
+			"[+33]% [Food] [in this city] <upon gaining a [Gravedigger] unit>",
 			"[-1] population [in this city] <in cities with at least [3] [Population]>",
 			"Requires at least [2] population",
 		],
