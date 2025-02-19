@@ -11,8 +11,7 @@
 			"Ignores terrain cost",
 		        "No Sight",
 			"Can move immediately once bought",
-			"[-1] population [in this city] <in cities with at least [3] [Population]>",
-			"Requires at least [2] population",
+			"[-1] population [in this city]",
 		],
 	},
 	{
