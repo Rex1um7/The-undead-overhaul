@@ -69,6 +69,7 @@
 			"[+15]% growth [in this city] <when above [175] Happiness>",
 			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>",
 			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
+			"[+33]% [Food] <in this city> <for [4] turns> <upon gaining a [Gravedigger] unit>",
 		],
 	},
 	{
