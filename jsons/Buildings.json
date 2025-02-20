@@ -65,11 +65,10 @@
                         "[-15]% [Culture] [in this city] <in cities with a [Broadcast Tower]> <hidden from users>",
 			"[+2 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
 			"[+3 Culture, +2 Production, +2 Gold, +2 Food] from [Abyss] tiles [in this city]",
-			"[+15]% growth [in this city] <when above [350] Happiness>",
-			"[+15]% growth [in this city] <when above [175] Happiness>",
+			"[+15]% growth [in this city] <when above [300] Happiness>",
+			"[+15]% growth [in this city] <when above [150] Happiness>",
 			"[+10]% growth [in this city] <after discovering [Philosophy]> <hidden from users>",
 			"Triggers the following global alert: [A new Z-Lab [cityNames] has been founded in a place nobody knows...] <upon founding a city> <hidden from users>",
-			"[+33]% [Food] <in this city> <for [4] turns> <upon gaining a [Gravedigger] unit>",
 		],
 	},
 	{
