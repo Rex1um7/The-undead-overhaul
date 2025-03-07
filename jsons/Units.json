@@ -5,7 +5,7 @@
 		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 159,
+		"cost": 141,
 		"uniques": [
 			"Founds a new city",
 			"Ignores terrain cost",
