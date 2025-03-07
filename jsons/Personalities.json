@@ -1,20 +1,25 @@
 [
     {
         "name": "The Mindless Horde",
-        "production": 9,
-        "food": 7,
+        "unique": ["Will not build [Faith]"],
+        "civilopediaText": [
+            { "text": "A mindless lord who had caused lots of catastrophes and plagues, have been revived to cover this land with sea of corpses" },
+        ],
+        "preferredVictoryType": "Dominiation",
+        "production": 10,
+        "food": 6,
         "gold": 5,
         "science": 9,
         "culture": 6,
-        "happiness": 2,
-        "faith": 1,
+        "happiness": 1,
+        "faith": 0,
         "military": 9,
         "aggressive": 10,
         "declareWar": 9,
-        "commerce": 8,
-        "diplomacy": 7,
-        "loyal": 9,
-        "expansion": 8,
+        "commerce": 7,
+        "diplomacy": 6,
+        "loyal": 8,
+        "expansion": 9,
         "priorities": 
         {
           "Tradition": 0,
