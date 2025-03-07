@@ -1,7 +1,11 @@
 [
     {
         "name": "The Mindless Horde",
-        "unique": ["Will not build [Faith]"],
+        "unique": [
+            "Will not build [Faith]",
+            "[+33]% Production when constructing [Gravedigger] units [in this city] <for [AI player] Civilizations>",
+			"[+15]% Production when constructing [Military] units [in this city] <for [AI player] Civilizations>",
+        ],
         "civilopediaText": [
             { "text": "A mindless lord who had caused lots of catastrophes and plagues, have been revived to cover this land with sea of corpses" },
         ],
