@@ -54,6 +54,8 @@
 		"happiness": 3,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
+			"[+33]% Production when constructing [Gravedigger] units [in this city] <for [AI player] Civilizations> <hidden from users>",
+			"[+15]% Production when constructing [Military] units [in this city] <for [AI player] Civilizations> <hidden from users>",
 			"[-10]% Production when constructing [All] wonders [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[-15]% [Science] [in this city] <in cities with a [Observatory]> <hidden from users>",
