@@ -60,6 +60,7 @@
 		"leaderName": "The Mindless Horde (Normal)",
 		"adjective": ["Undead"],
 		"preferredVictoryType": "Domination",
+		"personality": "The Mindless Horde",
 		"style": "Undead",
 		
 		"startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
