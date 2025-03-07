@@ -56,8 +56,8 @@
 	},
 	[
 	{
-		"name": "The Undead (Normal)",
-		"leaderName": "The Mindless Horde",
+		"name": "The Undead",
+		"leaderName": "The Mindless Horde (Normal)",
 		"adjective": ["Undead"],
 		"preferredVictoryType": "Domination",
 		"style": "Undead",
