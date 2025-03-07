@@ -54,7 +54,7 @@
 			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
 			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
 	},
-	[
+	// test
 	{
 		"name": "The Undead",
 		"leaderName": "The Mindless Horde (Normal)",
@@ -112,4 +112,4 @@
 		"spyNames": ["Walker", "Geek", "Lurker", "Fleshy", "Bony", "Biter", "Creeper", "Roamer", "Rotter", "Ripper"]
 	}
 ]
-]
+
